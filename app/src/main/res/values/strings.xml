@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestGuide</string>
+    <string name="title_activity_second">Second</string>
 </resources>
