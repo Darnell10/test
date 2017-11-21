@@ -15,7 +15,7 @@ public class FavHolder extends RecyclerView.ViewHolder {
 
     TextView name;
     TextView favs;
-
+git
 
     public FavHolder(View itemView) {
         super(itemView);
@@ -28,4 +28,5 @@ public class FavHolder extends RecyclerView.ViewHolder {
         name.setText(fav.getName().toString());
         favs.setText(fav.getFav().toString());
     }
+
 }
